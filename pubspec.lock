@@ -83,6 +83,15 @@ packages:
       url: "https://github.com/koji-1009/kaigi_plugin_a_2021"
     source: git
     version: "0.0.1"
+  kaigi_plugin_b_2021:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: main
+      resolved-ref: a727199184ff5568695a40487d0243c744597505
+      url: "https://github.com/koji-1009/kaigi_plugin_b_2021"
+    source: git
+    version: "0.0.1"
   lints:
     dependency: transitive
     description:
