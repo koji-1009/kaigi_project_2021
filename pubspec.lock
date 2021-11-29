@@ -68,7 +68,7 @@ packages:
       name: flutter_hooks
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.18.0"
+    version: "0.18.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -82,7 +82,7 @@ packages:
       name: flutter_riverpod
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -94,13 +94,13 @@ packages:
       name: hooks_riverpod
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   kaigi_plugin_a_2021:
     dependency: "direct main"
     description:
       path: "."
-      ref: main
-      resolved-ref: "9df662f75f8d943d5b89a41c3fb935bf7120fb66"
+      ref: "1.0.0"
+      resolved-ref: "38dcfc6711c64113f1a332fada37313c4726c4fd"
       url: "https://github.com/koji-1009/kaigi_plugin_a_2021"
     source: git
     version: "0.0.1"
@@ -108,8 +108,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: main
-      resolved-ref: c87069826af73486ac6a7c4210ec483f3eeb2484
+      ref: "1.0.0"
+      resolved-ref: dff03362e5c505ba300190d2dc65677c1301ebfb
       url: "https://github.com/koji-1009/kaigi_plugin_b_2021"
     source: git
     version: "0.0.1"
@@ -117,8 +117,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: main
-      resolved-ref: "178f50cb2998a11aeea6f993a6936991669f6d36"
+      ref: "1.0.0"
+      resolved-ref: e49c7749d17d586c2105433a1260934932b5f009
       url: "https://github.com/koji-1009/kaigi_plugin_c_2021"
     source: git
     version: "0.0.1"
@@ -126,8 +126,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: main
-      resolved-ref: "323a3b95d47d675c17db0d2366d93c6b772d8cb0"
+      ref: "1.0.0"
+      resolved-ref: "762fc6e46a4fe964ec2776a00f1dfc6796ba2e51"
       url: "https://github.com/koji-1009/kaigi_plugin_d_2021"
     source: git
     version: "0.0.1"
@@ -165,7 +165,7 @@ packages:
       name: riverpod
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
