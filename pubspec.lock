@@ -56,7 +56,7 @@ packages:
       name: flex_color_scheme
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.1"
+    version: "4.1.1"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -99,8 +99,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "1.0.0"
-      resolved-ref: "38dcfc6711c64113f1a332fada37313c4726c4fd"
+      ref: "1.1.0"
+      resolved-ref: "93d44df36374e53e22a328818170a1185af627c8"
       url: "https://github.com/koji-1009/kaigi_plugin_a_2021"
     source: git
     version: "0.0.1"
